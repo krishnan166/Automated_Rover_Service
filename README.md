@@ -55,11 +55,11 @@ There are three tables in the database. One to store the registered users’ ema
 Thingspeak is a cloud platform used for storing real-time data. The status of the slots is sent and stored in the cloud. For that, a channel is created in the Thingspeak cloud platform and that status is stored in one of the fields of the channel from which the home page of the web application gets the constantly updated data. A single channel has the utmost 8 fields. Since there are two stations in the presented project work, four of the fields in the channel corresponding to the IR sensor data regarding availability of slots and cycle and the rest four denote the RFID number that has booked the slot. RFID number is a 12 digit sequence of alphanumeric characters. If the slot booking is cancelled a sequence of zeroes is added to the RFID field to ensure that now it will be available for other users to book since the system is based on time-sharing. An additional digit is added to the RFID number just to realise which type of booking has happened; destination or source. 
 
 ## Flowchart
-The internal working of the system is shown in the flowcharts given below. 
+The internal working of the system is shown in the flowcharts given below.
 **Flowchart 1**
 ![Flowchart 1](https://github.com/krishnan166/CycleRental_Project/blob/main/Flowchart1.jpg) 
 **Flowchart 2**
-![Flowchart 2](https://github.com/krishnan166/CycleRental_Project/blob/main/Flowchart 2.jpg)
+![Flowchart 2](https://github.com/krishnan166/CycleRental_Project/blob/main/Flowchart2.jpg)
 
 
 
