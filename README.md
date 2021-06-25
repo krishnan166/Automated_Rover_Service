@@ -59,7 +59,7 @@ The internal working of the system is shown in the flowcharts given below.
 **Flowchart 1**
 ![Flowchart 1](https://github.com/krishnan166/CycleRental_Project/blob/main/Flowchart1.jpg) 
 **Flowchart 2**
-![Flowchart 2](https://github.com/krishnan166/CycleRental_Project/blob/main/Flowchart2.jpg)
+![Flowchart 2](https://github.com/krishnan166/CycleRental_Project/blob/main/Flowchart 2.jpg)
 
 
 
