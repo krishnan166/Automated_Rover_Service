@@ -56,10 +56,16 @@ Thingspeak is a cloud platform used for storing real-time data. The status of th
 
 ## Flowchart
 The internal working of the system is shown in the flowcharts given below.
+
 **Flowchart 1**
+<p align="centre">
+ 
 ![Flowchart 1](https://github.com/krishnan166/CycleRental_Project/blob/main/Flowchart1.jpg) 
+
+<br/>
+
 **Flowchart 2**
 ![Flowchart 2](https://github.com/krishnan166/CycleRental_Project/blob/main/Flowchart2.jpg)
-
+</p>
 
 
